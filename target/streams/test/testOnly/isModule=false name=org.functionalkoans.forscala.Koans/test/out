@@ -1,0 +1,54 @@
+[0m[[0minfo[0m] [0m[32mKoans:[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutAsserts:[0m[0m
+[0m[[0minfo[0m] [0m[32m- asserts can take a boolean argument[0m[0m
+[0m[[0minfo[0m] [0m[32m- asserts can include a message[0m[0m
+[0m[[0minfo[0m] [0m[32m- true and false values can be compared with should matchers[0m[0m
+[0m[[0minfo[0m] [0m[32m- booleans in asserts can test equality[0m[0m
+[0m[[0minfo[0m] [0m[32m- sometimes we expect you to fill in the values[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutValAndVar:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Vars are variables, and may be reassigned[0m[0m
+[0m[[0minfo[0m] [0m[32m- vals are values, and may not be reassigned, analogous to final in Java[0m[0m
+[0m[[0minfo[0m] [0m[32m- All vals and var types are inferred by default, but you can add the type explicitly[0m[0m
+[0m[[0minfo[0m] [0m[32m- If you want to include a space in your variable or value use backticks[0m[0m
+[0m[[0minfo[0m] [0m[32m- Any strange characters that you wish to use in a variable or value can be used after an underscore[0m[0m
+[0m[[0minfo[0m] [0m[32m- Backticks can also be used to spite your co-workers and send them into a spiral of confusion and agony![0m[0m
+[0m[[0minfo[0m] [0m[32m- A lazy val is assignment that will not be evaluated until it is called. Note there is no lazy var[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutLiteralBooleans:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Boolean literals are either true or false, using the true or false keyword[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutLiteralNumbers:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Integer Literals are 32-bit and can be created from decimal, hexadecimal[0m[0m
+[0m[[0minfo[0m] [0m[32m- Long Literals are 64 bit, are specified by appending an L or l at the end;[0m[0m
+[0m[[0minfo[0m] [0m[32m   l is rarely used since it looks like a 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- Float and Double Literals are IEEE 754 for specific,[0m[0m
+[0m[[0minfo[0m] [0m[32m   Float are 32-bit length, Doubles are 64-bit.[0m[0m
+[0m[[0minfo[0m] [0m[32m   Floats can be coerced using a f or F suffix, and[0m[0m
+[0m[[0minfo[0m] [0m[32m   Doubles can be coerced using a d or D suffix.[0m[0m
+[0m[[0minfo[0m] [0m[32m   Exponent are specified using e or E.[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutLiteralStrings:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Character Literals are quoted with single quotes[0m[0m
+[0m[[0minfo[0m] [0m[32m- Character Literals can use hexadecimal Unicode[0m[0m
+[0m[[0minfo[0m] [0m[32m- Character Literals can use octal as well[0m[0m
+[0m[[0minfo[0m] [0m[32m- Character Literals can use escape sequences[0m[0m
+[0m[[0minfo[0m] [0m[32m- One-Line String Literals are surrounded by quotation marks.[0m[0m
+[0m[[0minfo[0m] [0m[32m- String Literals can contain escape sequences.[0m[0m
+[0m[[0minfo[0m] [0m[32m- Multiline String literals[0m[0m
+[0m[[0minfo[0m] [0m[32m	are surrounded[0m[0m
+[0m[[0minfo[0m] [0m[32m	by three quotation marks[0m[0m
+[0m[[0minfo[0m] [0m[32m- Use stripMargin to prettify multi-line strings[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutMethods:[0m[0m
+[0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[33m  +  [0m[0m
+[0m[[0minfo[0m] [0m[33m  +  [0m[0m
+[0m[[0minfo[0m] [0m[33m  +  [0m[0m
+[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "A method's last statement will be what is returned[0m[0m
+[0m[[0minfo[0m] [0m[33m There is no need for the keyword `return`.[0m[0m
+[0m[[0minfo[0m] [0m[33m When a method includes a `=` after the method declaration that[0m[0m
+[0m[[0minfo[0m] [0m[33m will infer the return type" of suite "AboutMethods" [0m[0m
+[0m[[0minfo[0m] [0m[33m  +  [0m[0m
+[0m[[0minfo[0m] [0m[33m  +  [0m[0m
+[0m[[0minfo[0m] [0m[33m  +  [0m[0m
+[0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[32mInfo Provided - AboutMethods[0m[0m
+[0m[[0minfo[0m] [0m[32mInfo Provided - Koans[0m[0m
